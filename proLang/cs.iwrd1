@@ -1,0 +1,21 @@
+using	/* 変数宣言 */
+
+long
+int
+IntPtr
+uint
+float
+double
+char
+string
+bool
+byte
+typedef
+void
+
+List
+Dictionary
+
+new
+
+out

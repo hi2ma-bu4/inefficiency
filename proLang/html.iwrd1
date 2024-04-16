@@ -1,0 +1,104 @@
+html	/* 本体 */	/* html */
+head
+body
+meta	/* ヘッダー系 */
+title
+isindex
+base
+link
+script
+noscript
+style
+hn	/* ページレイアウト系 */
+hr
+br
+p
+h1
+h2
+h3
+h4
+h5
+h6
+summary
+details
+center
+div
+menu
+span
+nav
+pre
+blockquote
+address
+noscript
+header
+main
+footer
+abbr
+acronym
+dfn
+q
+cite
+code
+var
+kdb
+samp
+bdo
+font	/* フォント関連 */
+basefont
+i
+tt
+b
+u
+s
+strike
+big
+small
+sub
+sup
+em
+strong
+code
+samp
+kbd
+var
+cite
+del
+ins
+ul	/* リスト系 */
+ol
+li
+dl
+dt
+dd
+table	/* 表系 */
+tr
+th
+td
+caption
+thead
+tbody
+tfoot
+colgroup
+col
+a	/* hリンク */
+img	/* 画像系 */
+image
+map
+area
+form	/* form系 */
+select
+option
+optgroup
+textarea
+input
+button
+label
+fieldset
+legend
+applet	/* java */
+param
+object
+frameset	/* フレーム */
+frame
+noframe
+iframe

@@ -1,0 +1,19 @@
+/* 基本 (この行を消すと動かない) */
+テキスト文書|*.txt;*.csv;*.log
+
+/* プログラム関係 */
+プログラム言語|*.htm;*.html;*.php;*.xml;*.css;*.js;*.bat;*.cmd;*.vbs;*.c;*.cpp;*.h;*.cs
+
+/*
+HTML|*.htm;*.html
+PHP|*.php
+XML|*.xml
+CSS|*.css
+JavaScriptファイル|*.js
+Bat|*.bat;*.cmd
+vbs|*.vbs
+c言語|*.c
+c++|*.cpp
+c/c++ヘッダー|*.h
+c#|*.cs
+*/

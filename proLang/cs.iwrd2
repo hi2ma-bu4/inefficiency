@@ -1,0 +1,25 @@
+if	/* ネストする系 */
+else
+for
+foreach
+while
+switch
+case
+default
+break
+return
+throw
+
+in
+
+readonly
+struct
+static
+const
+
+class
+
+private
+public
+protected
+extern
